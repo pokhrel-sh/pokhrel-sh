@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @pokhrel-sh
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning Java, Javascript, and different libraries.
+- 📫 How to reach me: pokhrel.sh@northeastern.edu
