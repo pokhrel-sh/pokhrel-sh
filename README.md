@@ -13,11 +13,9 @@ I'm currently involved in a secret Project, where I'm creating secret stuff.
 ## Let's Connect
 I'm always eager and open to connect, my socials are available on the left. If you have feedback on anything, please let me know.
 
-Thank you 
-
+Thank you <br/>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pokhrel-sh&layout=donut&theme=radical)](https://github.com/pokhrel-sh/github-readme-stats)\
-![Shishir's GitHub stats](https://github-readme-stats.vercel.app/api?username=pokhrel-sh&show_icons=true&theme=radical)\
-
+![Shishir's GitHub stats](https://github-readme-stats.vercel.app/api?username=pokhrel-sh\&rank_icon=github&theme=radical)\
 [![GitHub Streak](https://streak-stats.demolab.com/?user=pokhrel-sh&theme=radical)](https://git.io/streak-stats)
