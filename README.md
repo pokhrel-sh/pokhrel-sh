@@ -22,4 +22,3 @@ Thank you <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pokhrel-sh&layout=donut&theme=radical)](https://github.com/pokhrel-sh/github-readme-stats)\
 ![Shishir's GitHub stats](https://github-readme-stats.vercel.app/api?username=pokhrel-sh\&rank_icon=github&theme=radical)\
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pokhrel-sh&theme=radical)](https://git.io/streak-stats)
