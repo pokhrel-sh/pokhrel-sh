@@ -4,7 +4,7 @@
 Hi, I'm Shishir Pokhrel, a freshman at Northeastern University. I am from Boston, MA. I am learning a whole bunch of stuff right now.
 
 ## Let's Connect
-As a linkedin feen, connect with me... my socials are available on the left. If you have feedback on anything, please let me know.
+As a linkedin feen, connect with me... my socials are right below this. If you have feedback on anything, please let me know.
 
 <p align="left">
   <a href="https://linkedin.com/in/shishir-pokhrel" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shishirpokhrel" height="30" /></a>
