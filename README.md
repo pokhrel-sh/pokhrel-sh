@@ -13,4 +13,4 @@ As a linkedin feen, connect with me... my socials are right below this. If you h
 </p>
 Thank you <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pokhrel-sh&layout=donut&theme=radical)](https://github.com/pokhrel-sh/github-readme-stats)\
+![most used languages](https://github-readme-stats-anish-sahoo.vercel.app/api/top-langs/?username=pokhrel-sh&theme=react&hide_border=true&count_private=true&include_all_commits=true&langs_count=40&layout=compact&card_width=334&hide=HLSL,ShaderLab,C%23,Jupyter+Notebook,Objective-C%2B%2B,Ruby,Objective-C,lua)
