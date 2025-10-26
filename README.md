@@ -1,5 +1,5 @@
 
-Hi, I'm Shishir Pokhrel, a sophomore at Khoury College of Computer Sciences, Northeastern University. I am from Boston, MA. I am learning a whole bunch of stuff right now.
+Hi, I'm Shishir Pokhrel, a junior at Khoury College of Computer Sciences, Northeastern University. I am from Boston, MA. I am learning a whole bunch of stuff right now.
 
 If you have feedback on anything, please let me know.
 
